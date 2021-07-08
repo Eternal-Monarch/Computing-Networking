@@ -8,7 +8,7 @@ class GFG {
 		throws UnknownHostException
 	{
 		// The URL for which IP address needs to be fetched
-		String s = "https:// www.google.com/";
+		String s = "https://www.google.com/";
 
 		try {
 			// Fetch IP address by getByName()
